@@ -11,7 +11,9 @@ python equity.py --beta 0.0
 
 To run the feedback loop experiments use:
 python equity_feedback_loop.py --loss_type equity --beta 0.5
+
 python equity_feedback_loop.py --loss_type equality --beta 0.5
+
 python equity_feedback_loop.py --loss_type classifier --beta 0.0
 
 
