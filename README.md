@@ -1,5 +1,8 @@
 # Fairness
 
+Code implementation for Statistical Equity: A Fairness Classification Objective
+
+
 To run the code with the equity objective for fairness gain results:
 
 python equity.py --loss_type equity --beta 0.5
