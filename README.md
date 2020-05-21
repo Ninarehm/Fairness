@@ -30,6 +30,12 @@ python equity_feedback_loop.py --loss_type classifier --beta 0.0
 The paper for this Github:
 https://arxiv.org/pdf/2005.07293.pdf
 Please cite the paper when using the code in this GitHub repository.
+@article{mehrabi2020statistical,
+  title={Statistical Equity: A Fairness Classification Objective},
+  author={Mehrabi, Ninareh and Huang, Yuzhong and Morstatter, Fred},
+  journal={arXiv preprint arXiv:2005.07293},
+  year={2020}
+}
 
 
 The Adult dataset is coming from:
